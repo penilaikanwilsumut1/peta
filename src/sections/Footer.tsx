@@ -40,7 +40,7 @@ export function Footer() {
           {/* Divider */}
           <div className="border-t border-cream-200 pt-8">
             <p className="text-center text-sm text-charcoal-500">
-              &copy; {currentYear} 1-Peta. Dibuat dengan{' '}
+              &copy; {2026}. Dibuat dengan{' '}
               <Heart className="w-4 h-4 inline text-red-500 fill-red-500" /> untuk Kamu.
             </p>
           </div>
