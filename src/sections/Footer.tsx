@@ -15,8 +15,8 @@ export function Footer() {
                 <MapPin className="w-5 h-5" />
               </div>
               <div>
-                <p className="font-serif font-semibold text-charcoal-900">Peta UTM</p>
-                <p className="text-xs text-charcoal-500">Diklat SIG Angkatan III 2026</p>
+                <p className="font-serif font-semibold text-charcoal-900">1-Peta</p>
+                <p className="text-xs text-charcoal-500">Diklat SIG DJP Angkatan III 2026</p>
               </div>
             </div>
 
@@ -32,7 +32,7 @@ export function Footer() {
               </a>
               <div className="text-sm text-charcoal-500 flex items-center gap-2">
                 <Phone className="w-4 h-4" />
-                <span>Saran: 0822-9411-6001 (Dedek)</span>
+                <span>Saran & Kendala: 0822-9411-6001 (Dedek)</span>
               </div>
             </div>
           </div>
@@ -40,8 +40,7 @@ export function Footer() {
           {/* Divider */}
           <div className="border-t border-cream-200 pt-8">
             <p className="text-center text-sm text-charcoal-500">
-              &copy; {currentYear} Peta UTM. Dibuat dengan{' '}
-              <Heart className="w-4 h-4 inline text-red-500 fill-red-500" /> untuk komunitas SIG Indonesia.
+              &copy; {currentYear} 1-Peta.
             </p>
           </div>
         </div>
