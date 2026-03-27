@@ -36,20 +36,20 @@ export function Hero() {
           <div className="inline-flex items-center gap-2 px-4 py-2 bg-white/80 backdrop-blur-sm rounded-full border border-cream-200 shadow-soft mb-8">
             <span className="w-2 h-2 bg-teal-500 rounded-full animate-pulse" />
             <span className="text-sm font-medium text-charcoal-600">
-              Versi 3.0 - Redesain Total
+              Versi 2.0 (Update per 27 Maret 2026)
             </span>
           </div>
 
           {/* Main Heading */}
           <h1 className="font-serif font-semibold text-charcoal-900 mb-6 max-w-4xl mx-auto">
             Konversi Koordinat{' '}
-            <span className="text-gradient-teal">UTM Profesional</span>
+            <span className="text-gradient-teal">UTM, DMS & Desimal secara Mudah</span>
           </h1>
 
           {/* Subtitle */}
           <p className="text-lg md:text-xl text-charcoal-500 max-w-2xl mx-auto mb-10 leading-relaxed">
-            Alat bantu lengkap untuk pengerjaan Peta UTM di QGIS dengan konversi koordinat, 
-            deteksi zona otomatis, dan visualisasi peta interaktif.
+            Alat Bantu Lengkap untuk Pengerjaan Peta di QGIS dengan Konversi Koordinat (UTM, DMS & Desimal), 
+            Deteksi Zona UTM secara Otomatis, Visualisasi Peta Interaktif dan Perhitungan Jarak.
           </p>
 
           {/* CTA Buttons */}
