@@ -22,13 +22,6 @@ export function Footer() {
 
             {/* Links */}
             <div className="flex items-center gap-6">
-              <a
-                href="https://github.com/penilaikanwilsumut1/peta-utm"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-charcoal-400 hover:text-charcoal-900 transition-colors"
-              >
-                <Github className="w-6 h-6" />
               </a>
               <div className="text-sm text-charcoal-500 flex items-center gap-2">
                 <Phone className="w-4 h-4" />
@@ -40,7 +33,7 @@ export function Footer() {
           {/* Divider */}
           <div className="border-t border-cream-200 pt-8">
             <p className="text-center text-sm text-charcoal-500">
-              &copy; {currentYear} . Dibuat dengan{' '}
+              &copy; {currentYear} | Dibuat dengan{' '}
               <Heart className="w-4 h-4 inline text-red-500 fill-red-500" /> untuk Kamu.
             </p>
           </div>
