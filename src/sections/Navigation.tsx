@@ -46,10 +46,10 @@ export function Navigation() {
               </div>
               <div className="flex flex-col">
                 <span className="font-serif font-semibold text-lg text-charcoal-900 leading-tight">
-                  Peta UTM
+                  1-Peta
                 </span>
                 <span className="text-xs text-charcoal-500 hidden sm:block">
-                  Alat Bantu Profesional
+                  Alat Bantu Pemetaan
                 </span>
               </div>
             </a>
